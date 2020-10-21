@@ -59,12 +59,12 @@ Total there are 7 folders according to different scenarios
 
 
 # 3 Agents
- ![](https://github.com/Praj390/CPSC8810_motion_planning/blob/master/TTC%20Forced%20based%20Navigation/3_agent.gif)
+ ![](https://github.com/spanthr/Motion_Planning/blob/main/GIFS/TTC_Forced_based_Navigation/3_agent.gif)
 
 # 8 agents
 
-![](https://github.com/Praj390/CPSC8810_motion_planning/blob/master/TTC%20Forced%20based%20Navigation/8_agent.gif)
+![](https://github.com/spanthr/Motion_Planning/blob/main/GIFS/TTC_Forced_based_Navigation/8_agent.gif)
 
 # crossing agents
 
-![](https://github.com/Praj390/CPSC8810_motion_planning/blob/master/TTC%20Forced%20based%20Navigation/crossing_agent.gif)
+![](https://github.com/spanthr/Motion_Planning/blob/main/GIFS/TTC_Forced_based_Navigation/crossing_agent.gif)
