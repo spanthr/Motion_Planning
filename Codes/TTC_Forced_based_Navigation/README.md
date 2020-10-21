@@ -1,6 +1,6 @@
 # Project 2
 ## Project Name : Local Navigation with TTC Forces
-## Name of the students : Prajval Vaskar 
+## Name of the students : Shaurya Panthri and Prajval Vaskar 
 In this project, we used predictive TTC forces approach for local navigation.
 
 
