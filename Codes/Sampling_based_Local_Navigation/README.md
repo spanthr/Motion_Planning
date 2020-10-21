@@ -43,7 +43,7 @@ get confused and interrupt their respective path, decreasing the smoothness of t
 
 
 ### 3 agents
-![ ](https://github.com/spanthr/Motion_Planning/tree/main/GIFS/Sampling_based_Local_Navigation/3_agent.gif)
+![ ](![](https://github.com/spanthr/Motion_Planning/blob/main/GIFS/Sampling_based_Local_Navigation/3_agent.gif)
 
 ### 8 agents
 
